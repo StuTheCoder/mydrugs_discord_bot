@@ -13,6 +13,9 @@ dotenv`
 
 # Commands
 The bot has the capability to register new commands as needed. To do this, modify and add new commands in the `src/command.js` file.
+Latest commands:
+- `/sites`
+- `/xtc`
 
 # Embeds
 Customization of embeds can be done in the src/embed.js file to tailor the bot's appearance as desired.
