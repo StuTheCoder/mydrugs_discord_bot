@@ -8,8 +8,8 @@ The bot is designed to function within Discord and replicates aspects of the TV 
 # Requirements
 To set up the bot, you need to install the following modules using either Node or Yarn:
 
-`discord.js
-dotenv`
+`discord.js`
+`dotenv`
 
 # Commands
 The bot has the capability to register new commands as needed. To do this, modify and add new commands in the `src/command.js` file.
