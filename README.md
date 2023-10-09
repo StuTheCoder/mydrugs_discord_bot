@@ -12,7 +12,8 @@ To set up the bot, you need to install the following modules using either Node o
 - `dotenv`
 
 # Commands
-The bot has the capability to register new commands as needed. To do this, modify and add new commands in the `src/command.js` file.
+The bot has the capability to register new commands as needed. To do this, modify and add new commands in the `src/command.js` file. To add new commands register these with `node command.js`. After that, you can you your new commands :)
+
 Latest commands:
 - `/sites`
 - `/xtc`
