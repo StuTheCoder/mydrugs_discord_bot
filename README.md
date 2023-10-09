@@ -19,7 +19,7 @@ Latest commands:
 - `/xtc`
 
 # Embeds
-Customization of embeds can be done in the src/embed.js file to tailor the bot's appearance as desired.
+Customization of embeds can be done in the `src/embed.js` file to tailor the bot's appearance as desired.
 
 # Usage
 To start the bot, run the following command in the terminal:
