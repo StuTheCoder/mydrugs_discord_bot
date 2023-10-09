@@ -1,5 +1,6 @@
 # Development Documentation for "How to Sell Drugs Online (Fast)" Discord Bot
- 🚀 Welcome to the development documentation for the "How to Sell Drugs Online (Fast)" Discord bot, inspired by the series of the same name!
+
+🚀 Welcome to the development documentation for the "How to Sell Drugs Online (Fast)" Discord bot, inspired by the series of the same name!
 
 # Project Overview
 The bot is designed to function within Discord and replicates aspects of the TV series "How to Sell Drugs Online (Fast)."
